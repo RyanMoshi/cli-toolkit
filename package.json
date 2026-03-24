@@ -1,0 +1,16 @@
+{
+  "name": "cli-toolkit",
+  "version": "1.0.0",
+  "description": "CLI helper utilities",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "cli",
+    "toolkit"
+  ],
+  "author": "RyanMoshi",
+  "license": "MIT"
+}
